@@ -1,1 +1,5 @@
 # mystuff
+
+.bashrc
+.vimrc
+.atom
