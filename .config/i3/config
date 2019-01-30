@@ -106,7 +106,7 @@ bindsym $mod+a focus parent
 
 
 #trouchpad
-bindsym $mod+o exec "./touchpad.sh"
+bindsym XF86TouchpadToggle exec "~/.config/i3/touchpad.sh"
 
 
 # switch to workspace
